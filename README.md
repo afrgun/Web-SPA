@@ -14,6 +14,6 @@ Start the project :
 
 <p>You can find it setup api for price in the routes/api.php</p>
 <p>for routes component vueJs, in the resources/js/app.js</p>
-<p>for landingpage component in the resources/js/Read.vue</p>
+<p>for landingpage component in the resources/js/components/Read.vue</p>
 <br/>
 <p>assets for images, js and file css in the public folder.</p>
